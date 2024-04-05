@@ -1,3 +1,4 @@
-# Toshal <bs>
-This is my first git repository <bs>
+# Toshal
+This is my first git repository 
+<br>
 author: Toshu
